@@ -54,7 +54,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/techtrends.git
+   git clone https://github.com/Hardikbalwani/techtrends.git
    ```
 
 2. Navigate to the project directory:
